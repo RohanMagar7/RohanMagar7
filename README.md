@@ -15,7 +15,7 @@ Welcome to my coding journey! I'm passionate about web development and constantl
 
 ```javascript
 const webDeveloper = {
-  languages: ["HTML", "CSS", "JavaScript","Python","PHP"],
+  languages: ["HTML", "CSS", "JavaScript","Python","PHP","C/C++"],
   frontend: ["React.js", ],
   backend: ["Node.js", "Express.js", "Django","PHP",],
   databases: ["MongoDB", "MySQL", ],
