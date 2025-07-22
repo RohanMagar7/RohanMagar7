@@ -98,5 +98,5 @@ _Bachelor's and Master in Computer Science _
 ---
 
 <p align="center">
-  <i>“The best way to predict the future is to invent it.” – Alan Kay</i>
+  <i>“The best way to predict the future is to invent it.”</i>
 </p>
