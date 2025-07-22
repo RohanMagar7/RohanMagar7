@@ -12,7 +12,7 @@
 ### 🎓 Education
 
 **Dr. Babasaheb Ambedkar Marathwada University, Aurangabad**  
-_Bachelor's and Master in Computer Science _
+_Bachelor's and Master in Computer Science_
 
 ---
 
@@ -46,7 +46,7 @@ _Bachelor's and Master in Computer Science _
 #### 📊 Data & Visualization
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data_Science-ffb703?style=flat&logo=data&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data_Science-ffb703?style=flat)
 
 #### 🛠️ Developer Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -71,12 +71,12 @@ _Bachelor's and Master in Computer Science _
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanmagar&show_icons=true&theme=github_dark&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanmagar&theme=github-dark&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohanmagar7&show_icons=true&theme=github_dark&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanmagar7&theme=github-dark&hide_border=true" width="47%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmagar&layout=compact&theme=github_dark&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmagar7&layout=compact&theme=github_dark&hide_border=true" width="50%" />
 </p>
 
 ---
