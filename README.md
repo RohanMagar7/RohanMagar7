@@ -4,7 +4,7 @@
 <p align="center">
   <a href="mailto:magarohan8@gmail.com">Email</a> •
   <a href="https://linkedin.com/in/rohanmagar7">LinkedIn</a> •
-  <a href="https://github.com/rohanmagar7">GitHub</a>
+  <a href="https://view.ealbum.in/?c=496505TVB3">GitHub</a>
 </p>
 
 ---
@@ -19,8 +19,6 @@ _Bachelor's and Master in Computer Science_
 ### 🧰 Tech Stack
 
 #### 🚀 Programming Languages
-![Python]( https://view.ealbum.in/?c=496505TVB3)
-
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C/C++](https://img.shields.io/badge/C/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
