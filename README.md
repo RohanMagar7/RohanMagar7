@@ -4,7 +4,7 @@
 <p align="center">
   <a href="mailto:magarohan8@gmail.com">Email</a> •
   <a href="https://linkedin.com/in/rohanmagar7">LinkedIn</a> •
-  <a href="https://view.ealbum.in/?c=496505TVB3">GitHub</a>
+  <a href="https://github.com/rohanmagar7">GitHub</a>
 </p>
 
 ---
