@@ -68,18 +68,6 @@ _Bachelor's and Master in Computer Science_
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanmagar7&show_icons=true&theme=github_dark&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanmagar7&theme=github-dark&hide_border=true" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmagar7&layout=compact&theme=github_dark&hide_border=true" width="50%" />
-</p>
-
----
 
 ### 🌍 Let's Connect
 
